@@ -1,13 +1,13 @@
 # Site settings
-email: 
+email: ken1232009@126.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
+title: Ken Xie
+description: CV & Blog
 url: ""
 twitter_username: 
 default_img: 
