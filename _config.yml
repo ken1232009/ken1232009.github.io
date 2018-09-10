@@ -17,7 +17,7 @@ name: Ken Xie
 profile_img: /assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg
 profile_dat: SAP ERP Consultant
 social: ken1232009@126.com
-  github: 
+github: 
 
 # Build settings
 include: ["_categories"]
