@@ -10,7 +10,7 @@ title: Ken Xie
 description: CV & Blog
 url: "https://ken1232009.github.io/"
 twitter_username: ken1232009
-default_img: ./assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg
+default_img: "/assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg"
 
 # Profile settings
 name:
