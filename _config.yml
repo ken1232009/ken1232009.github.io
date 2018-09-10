@@ -13,11 +13,11 @@ twitter_username: ken1232009
 default_img:
 
 # Profile settings
-name:
-profile_img: "/assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg"
+name: Ken Xie
+profile_img: /assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg
 profile:
-social:
-  github:
+social: ken1232009@126.com
+  github: ken1232009
 
 # Build settings
 include: ["_categories"]
