@@ -1,6 +1,6 @@
 # Site settings
 email: ken1232009@126.com
-baseurl: ""
+baseurl: "https://ken1232009.github.io/"
 paginate: 10
 paginate_path: "/blog/page-:num"
 google_analytics:
@@ -15,6 +15,7 @@ default_img:
 # Profile settings
 name: Ken Xie
 profile_img: /assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg
+
 profile: SAP ERP Consultant
 social: ken1232009@126.com
   github: https://github.com/ken1232009
