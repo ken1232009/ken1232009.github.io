@@ -1,23 +1,23 @@
 # Site settings
 email: ken1232009@126.com
 baseurl: ""
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
 title: Ken Xie
 description: CV & Blog
-url: ""
-twitter_username: 
-default_img: 
+url: "https://ken1232009.github.io/"
+twitter_username: ken1232009
+default_img: ./assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name:
+profile_img:
+profile:
 social:
-  github: 
+  github:
 
 # Build settings
 include: ["_categories"]
