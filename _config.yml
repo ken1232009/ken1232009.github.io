@@ -15,7 +15,7 @@ default_img:
 # Profile settings
 name: Ken Xie
 profile_img: /assets/d8a5a06f3fbc3f7cd461a5a12f98239a.jpg
-profile_dat: "SAP ERP Consultant,\n with a wider ambition"
+profile_dat: SAP ERP Consultant,<br/> with a wider ambition
 social: [["github", "https://github.com/ken1232009"]]
 
 # Build settings
